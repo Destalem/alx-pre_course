@@ -1,2 +1,2 @@
 my first readme
-my alx -pre_course
+on alx -pre_course
